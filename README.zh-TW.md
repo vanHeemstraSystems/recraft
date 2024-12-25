@@ -2,7 +2,7 @@
 
 # 重製
 
-> An Ai Image Editor
+> 安愛圖像編輯器
 
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
