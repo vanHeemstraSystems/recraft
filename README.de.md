@@ -2,7 +2,7 @@ neu gestalten
 
 # Nacharbeiten
 
-> Ein KI-Bildeditor
+> An Ai Image Editor
 
 -   [Dokumentation](./DOCUMENTATION.md)
 -   [Glossar](./GLOSSARY.md)
