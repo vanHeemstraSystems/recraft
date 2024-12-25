@@ -1,8 +1,8 @@
-Repository-Name
+neu gestalten
 
-# Repository-Name
+# Nacharbeiten
 
-> Slugline
+> Ein KI-Bildeditor
 
 -   [Dokumentation](./DOCUMENTATION.md)
 -   [Glossar](./GLOSSARY.md)
