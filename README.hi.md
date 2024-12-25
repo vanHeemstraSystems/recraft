@@ -2,7 +2,7 @@
 
 # भंडार का नाम
 
-> Slugline
+> स्लगलाइन
 
 -   [प्रलेखन](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
@@ -19,7 +19,7 @@
 
 देखना[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - आवश्यकताएँ
 
 देखना[README.md](./200/README.md)
 
