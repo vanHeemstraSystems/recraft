@@ -1,8 +1,8 @@
-repository-name
+改造
 
-# 存储库名称
+# 重制
 
-> 斯拉格莱恩
+> 安爱图像编辑器
 
 -   [文档](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
