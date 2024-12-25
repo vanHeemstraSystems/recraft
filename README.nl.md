@@ -2,7 +2,7 @@ opnieuw maken
 
 # Opnieuw maken
 
-> An Ai Image Editor
+> Een Ai-afbeeldingseditor
 
 -   [Documentatie](./DOCUMENTATION.md)
 -   [Glossarium](./GLOSSARY.md)
