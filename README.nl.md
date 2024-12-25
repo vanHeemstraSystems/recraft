@@ -1,8 +1,8 @@
-repositorynaam
+opnieuw maken
 
-# Naam van opslagplaats
+# Opnieuw maken
 
-> Slaklijn
+> Een Ai-afbeeldingseditor
 
 -   [Documentatie](./DOCUMENTATION.md)
 -   [Glossarium](./GLOSSARY.md)
