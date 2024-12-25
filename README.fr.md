@@ -1,8 +1,8 @@
-nom du référentiel
+recréer
 
-# Nom du référentiel
+# Recraft
 
-> Slugline
+> An Ai Image Editor
 
 -   [Documentation](./DOCUMENTATION.md)
 -   [Glossaire](./GLOSSARY.md)
