@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+recraft
+# Recraft
 
-> Slugline
+> An Ai Image Editor
 
 - [Documentation](./DOCUMENTATION.md)
 - [Glossary](./GLOSSARY.md)
