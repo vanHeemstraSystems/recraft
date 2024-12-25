@@ -1,8 +1,8 @@
-nombre-repositorio
+reelaborar
 
-# Nombre del repositorio
+# Reelaborar
 
-> línea de bala
+> Un editor de imágenes Ai
 
 -   [Documentación](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
@@ -27,6 +27,6 @@ Ver[README.md](./200/README.md)
 
 Ver[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - Conclusión
 
 Ver[README.md](./400/README.md)
