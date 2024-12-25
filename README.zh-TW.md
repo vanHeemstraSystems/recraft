@@ -1,8 +1,8 @@
-儲存庫名稱
+改造
 
-# 儲存庫名稱
+# 重製
 
-> 斯拉格萊恩
+> An Ai Image Editor
 
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
